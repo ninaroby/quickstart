@@ -29,3 +29,19 @@ h2, form {
     color: #ffffff;
     text-align: center;
 }
+
+h1, a {
+    font-size: 200%;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 1em;
+}
+
+a:hover {
+    color: #D3D3D3;
+}
+
+form input[type="button"] {
+    padding: 3em;
+    font-size: 2em;
+}
